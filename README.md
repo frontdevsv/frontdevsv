@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/breathing-line.png" alt="Breathing line" width="600">
+  <img src="MYimage.png" alt="Breathing line" width="600">
 </p>
 <p align="center">
   <sub><i>“Every bit has rhythm.”</i></sub>
