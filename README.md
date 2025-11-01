@@ -1,3 +1,10 @@
+> **Focused on clarity, precision, and rhythm — in code and in life.**  
+> *I believe minimalism is not emptiness, but balance.*
+
+---
+
+
+
 <p align="center">
   <img src="MYimage.png" alt="Breathing line" width="600">
 </p>
